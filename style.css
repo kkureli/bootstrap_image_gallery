@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+}
+#navbar{
+    background-color: rgb(48, 61, 80)
+}
+
+#jumb{
+    margin-top: 6%;
+}
+
+#image{
+    margin-right: 2%;
+}
+
